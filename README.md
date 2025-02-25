@@ -91,10 +91,11 @@ This comprehensive approach demonstrates the process of developing a regression 
 4. Evaluate the model and make predictions on new samples.
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+
+git clone https://github.com/syed-masood-pro/California-housing-price-predictor-Regression-.git
+cd California-housing-price-predictor-Regression-
 pip install -r requirements.txt
-jupyter notebook california_housing_price_predictor.ipynb
+jupyter notebook house_price_prediction.ipynb
 ```
 
 ## Contributing
